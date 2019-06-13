@@ -2,24 +2,29 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Anupriyam",
     "role": "Machine Learning Enthusiast and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "email":"anupriyamranjit8@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like to learn about different deep learning archterctures and about its application in the real world.",
     "socialLinks":[
         {
           "name":"linkedin",
           "url":"https://www.linkedin.com/in/anupriyam-ranjit-325746142",
-          "className":"fa fa-linkedin"
+          "className":"fab fa-linkedin"
         },
         {
           "name":"github",
           "url":"http://github.com/rbhatia46",
-          "className":"fa fa-github"
+          "className":"fab fa-github-alt"
         },
         {
           "name":"medium",
           "url":"https://medium.com/@anupriyam",
-          "className":"fa fa-twitter"
+          "className":"fab fa-medium"
+        },
+        {
+          "name":"twitter",
+          "url":"https://medium.com/@anupriyam",
+          "className":"fab fa-twitter-square"
         }
       ],
     "aboutme":"About Me",
@@ -60,13 +65,13 @@ let resumeData = {
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"Python"
+        "skillname":"python"
       },
       {
-        "skillname":"C++"
+        "skillname":"tensorflow"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"pandas"
       }
     ],
     "portfolio":[
@@ -99,6 +104,20 @@ let resumeData = {
       {
         "description":"This is a sample testimonial",
         "name":"Some technical guy"
+      }
+    ],
+    "interests":[
+      {
+        "name":"Artifical Intelligence",
+        "description":"I am interested in AI",
+        "imgurl":"images/portfolio/phone.jpg",
+        "className":"fas fa-brain"
+      },
+      {
+        "name":"hello",
+        "description":"I am interested in AI",
+        "imgurl":"images/portfolio/phone.jpg",
+        "className":"fab fa-linkedin"
       }
     ]
   }

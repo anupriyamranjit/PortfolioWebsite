@@ -14,8 +14,10 @@ export default class ContactUs extends Component {
           <div className="row">
             <aside className="eigth columns footer-widgets">
               <div className="widget">
-                <h4>Linked in :
-                  {resumeData.linkedinId}
+              <p>
+              Feel free to contact me on any of my social media or my emails if you have any question or if you would just like to chat!
+              </p>
+                <h4>Email: {resumeData.email}
                 </h4>
               </div>
             </aside>
