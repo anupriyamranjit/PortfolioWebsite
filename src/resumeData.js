@@ -30,19 +30,20 @@ let resumeData = {
     "aboutme":"About Me",
     "address":"Canada",
     "website":"anupriyamranjit8@gmail.com",
+
     "education":[
       {
         "UniversityName":"Waterloo University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "specialization":"Bachelor of Computer Science",
+        "MonthOfPassing":"Oct",
         "YearOfPassing":"2024",
         "Achievements":"Some Achievements"
       },
       {
-        "UniversityName":"Waterloo",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
+        "UniversityName":"Laurier University",
+        "specialization":"Bachelor of Business Administration",
+        "MonthOfPassing":"Oct",
+        "YearOfPassing":"2024",
         "Achievements":"Some Achievements"
       }
     ],
@@ -62,7 +63,7 @@ let resumeData = {
         "Achievements":"Some Achievements"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Coding Skills",
     "skills":[
       {
         "skillname":"python"
@@ -78,22 +79,22 @@ let resumeData = {
       {
         "name":"project1",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":'"images/portfolio/phone.jpg"'
       },
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":'"images/portfolio/project2.png"'
       },
       {
         "name":"project3",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":'"images/portfolio/project2.png"'
       },
       {
         "name":"project4",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":'"images/portfolio/phone.jpg"'
       }
     ],
     "testimonials":[
@@ -110,14 +111,17 @@ let resumeData = {
       {
         "name":"Artifical Intelligence",
         "description":"I am interested in AI",
-        "imgurl":"images/portfolio/phone.jpg",
-        "className":"fas fa-brain"
+        "className":"fas fa-brain fa-4x"
       },
       {
-        "name":"hello",
+        "name":"Finance",
         "description":"I am interested in AI",
-        "imgurl":"images/portfolio/phone.jpg",
-        "className":"fab fa-linkedin"
+        "className":"fas fa-wallet fa-4x"
+      },
+      {
+        "name":"Data Anaylsis",
+        "description":"I am interested in AI",
+        "className":"fas fa-table fa-4x"
       }
     ]
   }
