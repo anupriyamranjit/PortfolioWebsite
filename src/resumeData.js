@@ -27,7 +27,7 @@ let resumeData = {
           "className":"fab fa-twitter-square"
         }
       ],
-    "aboutme":"About Me",
+    "aboutme":"Anupriyam is a 18 year old machine learning developer who is currently studing computer science and business at the University of Waterloo. He began his journey into CS and machine learning when he was 15. He enjoys running and is running his first marathon at the Toronto's Waterfront. He also loves experiencing the world by travelling to contries such as Anustralia, Nepal, Maylasia, Sighapore and many more.",
     "address":"Canada",
     "website":"anupriyamranjit8@gmail.com",
 
@@ -37,31 +37,24 @@ let resumeData = {
         "specialization":"Bachelor of Computer Science",
         "MonthOfPassing":"Oct",
         "YearOfPassing":"2024",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       },
       {
         "UniversityName":"Laurier University",
         "specialization":"Bachelor of Business Administration",
         "MonthOfPassing":"Oct",
         "YearOfPassing":"2024",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"Food Plastics",
+        "specialization":"QA Intern",
+        "MonthOfLeaving":"Aug",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
     ],
     "skillsDescription":"Coding Skills",
     "skills":[

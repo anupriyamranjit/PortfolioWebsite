@@ -3,11 +3,11 @@ import Header from './components/Header';
 import About from './components/About';
 import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
-import Testimonials from  './components/Testimonials';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import Interest from './components/Interest';
 import resumeData from './resumeData';
+{/*import Testimonials from  './components/Testimonials';*/}
 class App extends Component {
   render() {
     return (
@@ -16,7 +16,7 @@ class App extends Component {
         <About resumeData={resumeData}/>
         <Resume resumeData={resumeData}/>
         <Portfolio resumeData={resumeData}/>
-        <Testimonials resumeData={resumeData}/>
+        {/*<Testimonials resumeData={resumeData}/>*/}
         <Interest resumeData={resumeData}/>
         <ContactUs resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
