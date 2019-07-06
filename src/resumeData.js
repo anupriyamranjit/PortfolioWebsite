@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Machine Learning Enthusiast and Data Scientist",
     "email":"anupriyamranjit8@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like to learn about different deep learning archterctures and about its application in the real world.",
+    "roleDescription": "I like to learn about different deep learning archterctures and about its application in the real world from Finance to Self-Driving Cars",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -13,7 +13,7 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/anupriyam",
           "className":"fab fa-github-alt"
         },
         {
@@ -27,7 +27,7 @@ let resumeData = {
           "className":"fab fa-twitter-square"
         }
       ],
-    "aboutme":"Anupriyam is a 18 year old machine learning developer who is currently studing computer science and business at the University of Waterloo. He began his journey into CS and machine learning when he was 15. He enjoys running and is running his first marathon at the Toronto's Waterfront. He also loves experiencing the world by travelling to contries such as Anustralia, Nepal, Maylasia, Sighapore and many more.",
+    "aboutme":"Anupriyam is an 18 year old machine learning developer who is currently studying computer science and business at the University of Waterloo. He began his journey into CS and machine learning when he was 15. He also enjoys running and is running his first marathon at the Toronto's Waterfront this October. He also loves experiencing the world by travelling to countries such as Australia, Nepal, Maylasia, Singapore and many more.",
     "address":"Canada",
     "website":"anupriyamranjit8@gmail.com",
 
@@ -108,12 +108,12 @@ let resumeData = {
       },
       {
         "name":"Finance",
-        "description":"I am interested in AI",
+        "description":"Anupriyam's interest in Finance started when Anupriyam became invested in stocks. He has built his own algorithmic trader and has also started his own club in highschool relating to Finance. Anupriyam was also the chapter president in his highschool ",
         "className":"fas fa-wallet fa-4x"
       },
       {
-        "name":"Data Anaylsis",
-        "description":"I am interested in AI",
+        "name":"",
+        "description":"",
         "className":"fas fa-table fa-4x"
       }
     ]
