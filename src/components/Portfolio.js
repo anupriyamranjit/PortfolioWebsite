@@ -26,9 +26,6 @@ export default class Porfolio extends Component {
     </a>
     <h5>WTF is CNN</h5>
   </div>
-  <div class="column">
-    <img className="profile-pic"  src="images/sample-image.jpg" alt="" />
-  </div>
 </div>
 
         </div>
