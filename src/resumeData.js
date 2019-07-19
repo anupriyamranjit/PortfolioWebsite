@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Machine Learning Enthusiast and Data Scientist",
     "email":"anupriyamranjit8@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": "I am a Machine Learning Enthusiast and Data Scientist. I like to learn about different deep learning architectures and its application in the real world from Finance to Self-Driving Cars.
+    "roleDescription": "I am a Machine Learning Enthusiast and Data Scientist. I like to learn about different deep learning architectures and its application in the real world from Finance to Self-Driving Cars.",
     "socialLinks":[
         {
           "name":"linkedin",
